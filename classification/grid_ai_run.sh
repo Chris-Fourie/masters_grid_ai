@@ -1,1 +1,0 @@
-python src/train.py experiments/critic/coagent_ac_central/network/layer4/run.json
